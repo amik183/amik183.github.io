@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="mypage.css">
+</head>
+  <body>
+  <header>
+    Ami Jasani
+  </header>
+   <nav>
+  <ul>
+      <li> <a href="file:///C:/Users/Ami/Desktop/HTML%20&%20CSS/With%20Notepad/Home.htm"> Home</a> </li>
+    <li> <a href="file:///C:/Users/Ami/Desktop/HTML%20&%20CSS/With%20Notepad/About.htm"> About </a> </li>
+    <li> <a href="file:///C:/Users/Ami/Desktop/HTML%20&%20CSS/With%20Notepad/Contact.htm"> Contact</a> </li>
+    <li> <a href="file:///C:/Users/Ami/Desktop/HTML%20&%20CSS/With%20Notepad/Gallery.htm"> Gallery</a> </li>
+    </ul>
+    </nav>
+   <div>
+     <section>
+     <h1> CAREER SUMMARY </h1>
+     <article>
+       More than 9 years of cross cultural experience in following areas:
+ <ul>
+       <li1> -	ERP – SAP Implementation & Support, Training</li1>
+       <li1>-	Project Management</li1>
+       <li1>-	Document Management</li1>
+   <li1>-	System implementation, Integration & Support</li1>
+   <li1>-	System analysis & Study </li1>
+<li1>-	Business process analysis, study & enhancements</li1>
+<li1>-	Team Management</li1>
+   
+       </ul>
+      
+       </article>
+        <h1> FUNCTIONAL EXPERIENCE </h1>
+    
+       <article>
+         <ul>
+         <li1>-	Cost Controlling</li1>
+        <li1>-	Manufacturing</li1>
+         <li1>-	Procurement</li1>
+         <li1>-	Engineering</li1>
+        <li1>-	Project Management, Planning</li1>
+       <li1>-	Finance </li1>
+       </ul>
+       </article>
+     </section>
+  </div>
+  <footer>
+    <nav>
+        <ul>
+        <li class="big"><a href="/copyright-policy">Copyright 2015 Ami Jasani</a></l1>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/archives">Archives</a></li>
+        </ul>
+    </nav>
+</footer>
+  </body>
+</html>
