@@ -1,0 +1,36 @@
+header {
+    font-size: 48px;
+    padding: 40px;
+}
+nav {
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;    
+}
+
+li {
+    display: inline-block;
+    margin: 5px;
+}
+li1 {
+    display: block;
+    margin: 5px;
+}
+section {
+    float: left;
+    width: 57%;
+    padding: 40px;
+}
+aside {
+    float: left;
+    width: 30%;
+}
+
+footer {
+    clear: left;
+    padding: 40px;
+}
+
+nav li.big {
+    width: 250px;
+}
